@@ -2,10 +2,14 @@
 
 Klipper backup for FluiddPi config on Tiny-M 190.
 
-Printer.cfg:
+**Printer.cfg:**
 
 Configured for SKR Mini E3.
 
-Macros.cfg:
+**Macros.cfg:**
 
 Macros adapted from Andrew Ellis' different macros. See https://github.com/AndrewEllis93 for more info.
+
+**Klipper_expander.cfg:**
+
+See: https://github.com/VoronDesign/Voron-Hardware/tree/master/Klipper_Expander
